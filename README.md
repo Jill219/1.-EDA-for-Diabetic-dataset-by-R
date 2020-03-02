@@ -1,4 +1,4 @@
-# 1.-EDA-for-Diabetic-dataset-by-R
+# 1. EDA-for-Diabetic-dataset-by-R
 *12/2018*  
 
 ### Summary:  
